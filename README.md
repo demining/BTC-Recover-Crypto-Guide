@@ -21,8 +21,8 @@ Releases
 
 ----
 
-* Tutorial: https://youtu.be/ECAPypsmMQs
-* Tutorial: https://cryptodeep.ru/blockchain-google-drive
+* Tutorial: https://youtu.be/imTXE4rGqHw
+* Tutorial: https://cryptodeep.ru/btc-recover-crypto-guide
 
 
 ----
