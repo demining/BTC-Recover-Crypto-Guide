@@ -2,7 +2,16 @@
 # BTC Recover Crypto Guide wallet password and seed recovery tools open source
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="./BTC Recover Crypto Guide wallet password and seed recovery tools open source - CRYPTO DEEP TECH_files/027-1024x576.png" alt="BTC Recover Crypto Guide wallet password and seed recovery tools open source" class="wp-image-1320" srcset="https://cryptodeeptech.ru/wp-content/uploads/2022/12/027-1024x576.png 1024w, https://cryptodeeptech.ru/wp-content/uploads/2022/12/027-300x169.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2022/12/027-768x432.png 768w, https://cryptodeeptech.ru/wp-content/uploads/2022/12/027.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="./BTC Recover Crypto Guide wallet password and seed recovery tools open source - CRYPTO DEEP TECH_files/027-1024x576.png" alt="BTC Recover Crypto Guide wallet password and seed recovery tools open source" class="wp-image-1320" srcset="https://cryptodeeptech.ru/wp-content/uploads/2022/12/027-1024x576.png 1024w, https://cryptodeeptech.ru/wp-content/uploads/2022/12/027-300x169.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2022/12/027-768x432.png 768w, https://cryptodeeptech.ru/wp-content/uploads/2022/12/027.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>Topics
+Resources
+ Readme
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Releases
 	</div><!-- .entry-content -->
 	
 
@@ -6029,3 +6038,14 @@ Password found: xxxx
 
 
 -----
+-----
+
+
+
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2gTnMpxRUNBU85Hg4ruTwnpUPKdf3nV |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
+
